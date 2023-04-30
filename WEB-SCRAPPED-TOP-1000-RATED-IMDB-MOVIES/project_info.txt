@@ -1,0 +1,2 @@
+By using Beautiful Soup we have Scrapped Top 1000 Rated Movies from IMDB Website and Cleaned the data using re Library and Stored the Data 
+into Mysql Workbench by creating a new DataBase
